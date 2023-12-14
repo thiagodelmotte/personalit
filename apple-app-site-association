@@ -1,0 +1,19 @@
+{
+    "applinks":{
+        "details":[
+            {
+                "appIDs":[
+                    "5PN69BWKGT.br.com.petz.petz.dev",
+                    "5PN69BWKGT.br.com.petz.hanzo.Petz",
+                    "5PN69BWKGT.br.com.petz.petz.stg"
+                ],
+                "components":[
+                    {
+                        "/":"/marcas/*",
+                        "comment":"Matches any URL whose path starts with /marcas/"
+                    }
+                ]
+            }
+        ]
+    }
+}
